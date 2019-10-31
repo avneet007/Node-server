@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/avneet007/Node-server/issues"
   },
-  "homepage": "https://github.com/avneet007/Node-server#readme"
+  "homepage": "https://github.com/avneet007/Node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
